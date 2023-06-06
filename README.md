@@ -1,10 +1,10 @@
 # Curso de Introducción a React.js en Platzi
 
-### git clone
+### `git clone`
 
-### npm i
+### `npm i`
 
-### npm start
+### `npm start`
 
 
 ¡Hola, Platzinauta!
